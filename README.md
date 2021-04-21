@@ -21,4 +21,4 @@
 4. My english is so good
 5. python
 
-> "I think it's important that you really like whatever you are doing if you dont like it life is to short" . -elon musk
+> "I think it's important that you really like whatever you are doing if you don't like it life is to short" . -elon musk
