@@ -2,11 +2,11 @@
 
 ## Who am I
 - I’m full-stack developer 
-	| back-end  		| front-end				  |
+	| Back end  		| Front end				  |
 	| ------------- | -------------			|
-	| laravel				| html , css , sass |
-	|  sql , mysql  				| js , jquery , vue |
-	|   				 		| bootstrap					|
+	| Laravel				| HTML , CSS , SASS |
+	|  SQL , mySQL  				| JavaScript , JQuery  |
+	|   				 		| Bootstrap					|
 
 ## I'm learning :
 - 	vue js 
@@ -21,4 +21,4 @@
 4. My English is so good
 5. python
 
-> "I think it's important that you really like whatever you are doing if you don't like it life is to short" . -elon musk
+> "I think it's important that you really like whatever you are doing if you don't like it life is to short" . -Elon Musk
