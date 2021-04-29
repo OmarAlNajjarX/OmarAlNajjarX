@@ -5,17 +5,17 @@
 	| back-end  		| front-end				  |
 	| ------------- | -------------			|
 	| laravel				| html , css , sass |
-	|  sql mysql  				| js , jquery , vue |
+	|  sql , mysql  				| js , jquery , vue |
 	|   				 		| bootstrap					|
 
 ## I'm learning :
 - 	vue js 
 - 	git , github
-- 	more js libraries
+- 	more JS libraries
 - 	django
 
 ## other skills :
-1. I have A+ Network+ and Security+ certificates from New Horizons in syria 
+1. I have A+ Network+ and Security+ certificates from New Horizons in Syria 
 2. I could use linux easly 
 3. Using terminal or commend line easily 
 4. My English is so good
